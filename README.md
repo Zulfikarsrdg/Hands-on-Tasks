@@ -1,1 +1,1 @@
-Polkadat Rust Bootcamp.
+Polkadot Rust Bootcamp.
