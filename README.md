@@ -1,1 +1,1 @@
-Polkadato Rust Bootcamp.
+Polkadat Rust Bootcamp.
